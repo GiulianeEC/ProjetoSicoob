@@ -1,0 +1,115 @@
+:root{
+    --color-backgroud: #FFFFFF;
+    --color-text: #4F4F4F;
+    --color-title:#00A091;
+    --color-backgroud2: #00A091;
+    --color-titlebotao: #FFFFFF;
+    --color-titlebotao2:#FFFFFF;
+
+    font-size: 16px;
+    
+}
+
+h2{
+    
+width: 628px;
+height: 90px;
+left: 35px;
+top: 1110px;
+
+font-family: Asap;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 46px;
+text-align: center;
+
+color: #00A091;
+}
+h3{
+    
+    position: absolute;
+    width: 470px;
+    height: 267px;
+    left: 698px;
+    top: 1271px;
+    
+    font-family: Asap;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+
+color: #00A091;
+}
+.text
+h4{
+    position: absolute;
+    width: 770px;
+    height: 32px;
+    left: -170px;
+    top: 1825px;
+    
+    font-family: Asap;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+h5{
+    position: absolute;
+    width: 370px;
+    height: 84px;
+    
+    font-family: Asap;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+
+color: #00A091;
+}
+
+h6{
+   
+width: 703px;
+height: 90px;
+
+
+font-family: Asap;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 46px;
+text-align: center;
+
+color: #00A091;
+}
+h7{
+    
+width: 330px;
+height: 153px;
+left: 118px;
+top: 2863px;
+
+font-family: Asap;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #00A091;
+
+}
+
+
+
+
+
+
